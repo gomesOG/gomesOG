@@ -1,8 +1,10 @@
-# E aí beleza ? Eu sou o Gabriel 👋
+# Oi, eu sou o Gabriel 👋
  
-👨‍💻 **Desenvolvedor Junior | Estudante de Análise e Desenvolvimento de Sistemas**
+👨‍💻 **Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas**
  
-Atualmente atuando com ECM e Workflow, com forte foco na resolução de problemas, gestão de banco de dados e desenvolvimento de soluções eficientes. Em constante evolução técnica para construir sistemas mais robustos e preparando terreno para novos desafios no mercado internacional.
+Sou desenvolvedor de software com foco em criar soluções que transformam processos complexos em sistemas mais ágeis, organizados e acessíveis. Atuo principalmente com C#, .NET e JavaScript, desenvolvendo aplicações web e sistemas corporativos, sempre buscando código limpo, manutenível e bem estruturado.
+
+Tenho experiência em ambientes reais de produção, lidando com banco de dados, servidores, versionamento e entregas contínuas, além de colaborar ativamente com equipes de desenvolvimento.
  
 ---
  

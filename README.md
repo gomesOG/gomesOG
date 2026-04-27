@@ -9,7 +9,7 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 ### 📊 Meus Status no GitHub
  
 <div align="center">
-<a href="https://github.com/adlersampaio">
+<a href="https://github.com/gomesOG">
 <img src="https://github-readme-stats.vercel.app/api?username=gomesog&show_icons=true&theme=radical&include_all_commits=true%22 height="160" alt="Estatísticas do GitHub do Gabriel" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesOG&layout=compact&theme=radical%22 height="160" alt="Linguagens mais usadas" />
 </a>

@@ -8,7 +8,7 @@ Tenho experiência em ambientes reais de produção, lidando com banco de dados,
  
 ---
  
-### 📊 Meus Status no GitHub
+### 📊 Linguagens e Tecnologias
  
 
  

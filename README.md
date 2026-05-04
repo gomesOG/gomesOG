@@ -9,9 +9,7 @@ Tenho experiência em ambientes reais de produção, lidando com banco de dados,
 ---
  
 ### 📊 Linguagens e Tecnologias
- 
 
- 
 <br>
  
 <div align="center">
